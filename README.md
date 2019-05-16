@@ -1,0 +1,1 @@
+Check if temperature is celsius or fahrenheit and check status
